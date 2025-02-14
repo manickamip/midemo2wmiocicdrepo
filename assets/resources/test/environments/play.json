@@ -1,0 +1,24 @@
+{
+	"id": "d4639da5-616c-40f0-b45c-736bc2591936",
+	"name": "play",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://env861817.int-aws-de.webmethods.io/integration/rest/external/integration/run/development/fl80d3220217e6cedf7a9bc8/",
+			"enabled": true
+		},
+		{
+			"key": "user",
+			"value": "manickam.ip@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "Iman@IbmWmio_152",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-02-13T08:38:14.456Z",
+	"_postman_exported_using": "Postman/7.36.7"
+}
